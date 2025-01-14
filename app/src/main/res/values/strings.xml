@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">QuizGame</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="quiz_app">Quiz App</string>
+    <string name="welcome">Welcome</string>
+    <string name="name">Name</string>
+    <string name="please_Login_your_Emailid">Login using </string>
+    <string name="please_enter_your_name">or \n Enter your name</string>
+    <string name="start">start</string>
+    <string name="check">Check</string>
+    <!-- res/values/strings.xml -->
+    <string name="score_message">Your score is %1$d out of %2$d</string>
+
+    <string name="email_message">Email: %s</string>
+    <string name="name_message">Name: %s</string>
+    <string name="no_user_info">No user information available</string>
+
+    <string name="login_tab_title">Login</string>
+    <string name="register_tab_title">Register</string>
+
+
+
+</resources>
